@@ -18,12 +18,14 @@ This project showcases a **static Home Screen UI** for a Medical App built with 
 - 💻 Kotlin
 - 🧱 Jetpack Compose
 - 🎨 Material Design 3
+
 - 🛠️ Android Studio
 
 ## 📸 Screenshot
 
 > *(Insert screenshot from emulator or device)*
 
+<img src="https://github.com/user-attachments/assets/94e6dbde-4008-4608-8921-6817229518b8" width="30%" />
 
 
 
